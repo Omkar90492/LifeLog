@@ -18,4 +18,4 @@ LifeLog is a cross-platform app made in FlutterFlow to record, analyze, and plan
 3. Deploy to Android/iOS
 
 ## ✍️ Authors
-Omkar Shinde, Samar Naik, Om Patil, Dhanyakumar Mane
+Omkar Shinde
