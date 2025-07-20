@@ -58,17 +58,17 @@ Lifelog is a web-based lifestyle tracking application developed as a second-year
 
 ## 📌 Results
 
-## 📈 Accuracy Chart
-![Accuracy](images/accuracy_comparison.png)
+## 📸 Screenshots & Visuals
 
-## 🧪 Confusion Matrix - XGBoost
-![XGBoost](images/confusion_matrix_xgboost.png)
+### 🔷 Google Sheet Integration
+![Google Sheet Logo](https://raw.githubusercontent.com/Omkar90492/Lifelog-A-Lifestyle-Tracking-Web-App/main/images/Google%20Sheet%20Logo.png)
 
-## 🌲 Confusion Matrix - Random Forest
-![RandomForest](images/confusion_matrix_randomforest.png)
+### 🔷 Glide Interface Snapshot
+![Glide UI](https://raw.githubusercontent.com/Omkar90492/Lifelog-A-Lifestyle-Tracking-Web-App/main/images/Snapshot%20of%20Lifelog%20Interface%20developed%20with%20Glide%20Apps%20Platform.png)
 
-## 💻 Confusion Matrix - SVC
-![SVC](images/confusion_matrix_svc.png)
+### 🔷 Testing Results Summary
+![Testing Results](https://raw.githubusercontent.com/Omkar90492/Lifelog-A-Lifestyle-Tracking-Web-App/main/images/Summary%20of%20Lifelog%20Testing.png)
+
 
 ---
 
