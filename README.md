@@ -45,13 +45,13 @@ Lifelog is a web-based lifestyle tracking application developed as a second-year
    - Food intake
    - Exercise details
    - Emotion logs
-   - 
+    
 **Step 3. 🔄 Create a Google Sheet with structured columns**:
 
 **Step 4. 🔌 Use Google AppScript For**:
    - Store/retrieve form data
    - Trigger UI updates.
-   - 
+     
 **Step 5. 🧪 Test and deploy the app publicly or share the install link**
 
 ---
